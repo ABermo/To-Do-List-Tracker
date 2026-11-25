@@ -1,4 +1,4 @@
-# To-Do-List-Tracter
+# To-Do-List-Tracker
 Python Program to manage to do tasks
 
 # Usable
